@@ -1,3 +1,6 @@
+# git clone https://github.com/n-at-han-k/macos-vm-flake
+# cd macos-vm-flake
+# nix run
 {
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/24.05";
 
